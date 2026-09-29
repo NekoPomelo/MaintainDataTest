@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="MaintainDataClassLibrary/MaintainDataClassLibrary.csproj" Id="a895fe89-b11f-41f2-a4c3-715cd9393757" />
+  <Project Path="TestWPFWin/TestWpfApp.csproj" />
+</Solution>
